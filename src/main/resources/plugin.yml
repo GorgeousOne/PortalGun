@@ -1,0 +1,4 @@
+name: PortalGun
+version: ${project.version}
+main: me.gorgeousone.portalgun.PortalGun
+api-version: 1.13

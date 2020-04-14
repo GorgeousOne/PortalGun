@@ -17,6 +17,9 @@ import java.util.Map;
 import java.util.Set;
 import java.util.UUID;
 
+/**
+ * Stores players with the blocks they are lifting at the moment.
+ */
 public class BlockHandler {
 
 	private PortalMain main;

@@ -7,15 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="792a1c51-abf4-4924-9325-69a15b7ebd12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/gorgeousone/portalgun/BlockDragHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/gorgeousone/portalgun/BlockHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/gorgeousone/portalgun/BlockInteract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/gorgeousone/portalgun/FallingBlockLand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/gorgeousone/portalgun/PortalGun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/gorgeousone/portalgun/PortalMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/gorgeousone/portalgun/BlockDragHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/gorgeousone/portalgun/BlockDragHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/gorgeousone/portalgun/BlockHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/gorgeousone/portalgun/BlockHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/gorgeousone/portalgun/FallingBlockLand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/gorgeousone/portalgun/FallingBlockLand.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +112,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580386747593" />
+    <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586862632099">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586862632099" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1580231350117">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

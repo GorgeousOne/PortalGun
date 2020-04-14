@@ -7,6 +7,9 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntityChangeBlockEvent;
 
+/**
+ * Stops falling blocks from changing into solid state again before being dropped by the player
+ */
 public class FallingBlockLand implements Listener {
 
 	private BlockHandler blockHandler;

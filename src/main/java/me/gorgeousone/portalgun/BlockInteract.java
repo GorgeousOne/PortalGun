@@ -12,6 +12,9 @@ import org.bukkit.inventory.EquipmentSlot;
 import org.bukkit.inventory.InventoryHolder;
 import org.bukkit.inventory.ItemStack;
 
+/**
+ * Handles clicking at blocks with the portal gun
+ */
 public class BlockInteract implements Listener {
 
 	private BlockHandler blockHandler;
